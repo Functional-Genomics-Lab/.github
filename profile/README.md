@@ -1,11 +1,11 @@
 
 ![DNA-logo.png](https://images.squarespace-cdn.com/content/v1/5321e7e3e4b060d312818d81/1396230674564-C1NSO9BCUI0JCBYHY1I0/DNA-logo.png?format=1500w)
 
-Welcome to the Functional Genomics Laboratory at The University of Texas at Dallas. We are located in the Department of Biological Sciences in the School of Natural Sciences and Mathematics. We study mechanisms of genome expression: transcription insulation, transcription elongation, enhancers, and long range chromosomal interactions.
+Welcome to the **Fun**ctional Genomics **Lab**oratory at [The University of Texas at Dallas](https://www.utdallas.edu/). We are located in the [Department of Biological Sciences](https://www.utdallas.edu/biology/) in the School of Natural Sciences and Mathematics. We study mechanisms of genome expression: transcription insulation, transcription elongation, enhancers, and long range chromosomal interactions.
 
-If you are interested in pursuing your postbaccalaureate, graduate, or postdoctoral research training with us, please send a CV, letters of recommendation, and reprints of recent papers to Dr. Tae Hoon Kim for consideration. If you are an undergraduate student at UTD, please submit your research interest application via a web form available here.
+If you are interested in pursuing your postbaccalaureate, graduate, or postdoctoral research training with us, please send a CV, letters of recommendation, and reprints of recent papers to [Dr. Tae Hoon Kim](mailto:genome@utdallas.edu) for consideration. If you are an undergraduate student at UTD, please submit your research interest application via a web form available [here](https://profiles.utdallas.edu/students/about).
 
-Follow our laboratory's blog: lablog.
+Follow our laboratory's blog: [lablog](https://taehoonkim.org/news).
 
 <!--
 
