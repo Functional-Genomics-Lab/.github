@@ -17,3 +17,11 @@ Follow our laboratory's blog: [lablog](https://taehoonkim.org/news).
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+## nf-core
+
+Our lab is involved in nf-core, a community effort to collect a curated set of analysis pipelines built using Nextflow. 
+
+![nf-core/nascent](https://github.com/nf-core/nascent/raw/master/docs/images/nf-core-nascent_logo_dark.png)
+![nf-core/viralintegration](https://github.com/nf-core/viralintegration/raw/master/docs/images/nf-core-viralintegration_logo_dark.png)
